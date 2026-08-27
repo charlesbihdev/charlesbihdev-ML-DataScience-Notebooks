@@ -1,0 +1,19 @@
+# Core data science
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+
+# Notebooks
+jupyterlab
+
+# Face recognition system (project 04)
+torch
+facenet-pytorch
+pillow
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
